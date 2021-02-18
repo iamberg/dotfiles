@@ -2,3 +2,4 @@ README.md
 dot_aws/cli/
 *.deb
 *.tar.gz
+*.save
